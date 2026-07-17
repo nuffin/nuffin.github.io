@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}The Breath in the Deep</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #fdf6e8;
+      color: #3a3226;
+      font-family: "Georgia", "Noto Serif SC", "STSong", "Noto Sans SC", serif;
+      line-height: 1.9;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 3em 1.5em;
+    }
+    h1, h2, h3 {
+      font-family: "Georgia", "Noto Serif SC", serif;
+      font-weight: normal;
+      color: #5b7a9e;
+      letter-spacing: 0.03em;
+    }
+    h1 { font-size: 2em; border-bottom: 2px dashed #b8d4e8; padding-bottom: 0.4em; margin-bottom: 0.8em; }
+    h2 { font-size: 1.4em; margin-top: 2em; color: #4a7bab; }
+    a { color: #4a7bab; text-decoration: none; border-bottom: 1px dotted #a3c6e3; }
+    a:hover { color: #2d5a87; border-bottom: 1px solid #4a7bab; background: #e8f0f8; }
+    ul { list-style: none; padding-left: 0; }
+    li { margin: 0.35em 0; }
+    li:before { content: "·"; color: #b8d4e8; margin-right: 0.6em; }
+    blockquote { border-left: 3px solid #d4e6f1; margin: 1em 0; padding-left: 1em; color: #6b7d8e; font-style: italic; }
+    small { color: #9baab8; }
+    hr { border: none; border-top: 1px dashed #d4e6f1; margin: 2em 0; }
+    p { margin: 0.6em 0; }
+    @media (max-width: 600px) { body { padding: 1.5em 1em; font-size: 0.95em; } }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
