@@ -23,7 +23,10 @@ He leaned against the railing. Closed his eyes. The sphere spinning. Blue lines 
 This pot was about to boil over.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](05-travelers-with-secrets.md) · 🠹 [Contents](/novel) · [Next](07-bonding-day-two.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

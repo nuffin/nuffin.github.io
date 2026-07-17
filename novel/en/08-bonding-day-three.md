@@ -33,7 +33,10 @@ The blue light reached the bottom of the Rift.
 Then everything changed.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](07-bonding-day-two.md) · 🠹 [Contents](/novel) · [Next](09-resonance.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

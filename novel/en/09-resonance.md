@@ -41,7 +41,10 @@ Thalen stood at the dome for a long time. Corvan had already adjusted the city m
 "Find them. Before the other guilds do."
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](08-bonding-day-three.md) · 🠹 [Contents](/novel) · [Next](10-after-the-breaking.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

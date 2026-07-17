@@ -23,7 +23,10 @@ No one could. But the red-thread circle on the wall glowed quietly. Faint blue. 
 They waited in the dark for dawn.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](19-the-list.md) · 🠹 [Contents](/novel) · [Next](21-debate.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

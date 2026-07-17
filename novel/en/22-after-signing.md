@@ -7,7 +7,10 @@ Solvaris had given him a number that afternoon. Time until full Seal failure. No
 He opened the envelope delivered through Fundoris after the session. No signature. Not paper — a thin material, surface smooth as water. One line: "The Seal wasn't opened by you. You forgot it was always there." Thalen locked it in a drawer. The handwriting's frequency matched Kaelen's cracks in the barrier exactly. Itheron wasn't a mastermind from fifty years later. He'd been standing on the other side the moment he stood before V fifty years ago. Waiting behind a door for half a century. Waiting to be seen. Waiting for an answer.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](21-debate.md) · 🠹 [Contents](/novel) · [Next](23-observers.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

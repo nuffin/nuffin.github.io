@@ -39,7 +39,10 @@ Lynx wasn't an information broker. He was making choices. Delivering fragments w
 She left the warehouse in full dark. Took nothing. Just pulled the smallest piece — the one with the V on the back — from her pocket and placed it beside the log. Not for Vereth. For Lynx. To let him know someone had found the first one.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](13-forbidden-book.md) · 🠹 [Contents](/novel) · [Next](15-barrier.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

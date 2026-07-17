@@ -23,7 +23,10 @@ Aella closed the book. Last page. Not Scriba's hand. Older. Kaelen's.
 "One day someone will stand here and say we should have taught it. Not to judge us. To finish what we were too afraid to start."
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](20-eve-of-debate.md) · 🠹 [Contents](/novel) · [Next](22-after-signing.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

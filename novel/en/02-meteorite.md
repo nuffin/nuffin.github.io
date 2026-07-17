@@ -37,7 +37,10 @@ The cart pulled away. Iron Kiln shrank behind them. Orion put his hand on the me
 Slower than a heartbeat. Faster than the tide.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](01-three-days.md) · 🠹 [Contents](/novel) · [Next](03-red-thread.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

@@ -27,7 +27,10 @@ Back to the inn. Lay on the bed. Water stains in the ceiling cracks — not blue
 The Unblemished Thought, breathing at the Rift floor. Faster than before Bonding Day. He wasn't afraid of the speed. He'd seen something in pure state: it wasn't breaking the Seal. It was learning to knock.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](15-barrier.md) · 🠹 [Contents](/novel) · [Next](17-solvaris-silence.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

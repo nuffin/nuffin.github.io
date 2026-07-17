@@ -35,7 +35,10 @@ Scriba nodded. No more words. He walked to the door, his books returning to orbi
 Then he and his books vanished down the corridor. The Lantern Tower's spires drifted outside the window. Tonight: four towers. One fewer than usual. Not broken. Just hadn't decided where to go yet.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](12-man-without-expression.md) · 🠹 [Contents](/novel) · [Next](14-warehouse.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

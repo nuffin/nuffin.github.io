@@ -27,7 +27,10 @@ Kaeden glanced at her. Pockets still bulging. Orion looked down at his chest —
 The Gray Bridge stone in his pocket, radiating heat. Not checking direction. Confirming he'd found the others.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](10-after-the-breaking.md) · 🠹 [Contents](/novel) · [Next](12-man-without-expression.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

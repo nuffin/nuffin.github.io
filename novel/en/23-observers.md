@@ -9,7 +9,10 @@ Orion lifted a fragment with his forge hand. The meteorite pulsed the same frequ
 Kaeden closed his eyes. Traced the fragment's light back. In pure state he heard it — behind the symbol, a longer name, in a language he hadn't learned to pronounce. But he understood the meaning: "The One Who Waits." Not a sealer. Not an accelerator. Waiting for over a century. Waiting for someone to knock.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](22-after-signing.md) · 🠹 [Contents](/novel) · [Next](24-dream.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

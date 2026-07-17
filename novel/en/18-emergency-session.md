@@ -21,7 +21,10 @@ Thalen walked back to the Strategy Court. The Rift model's blue light, still bre
 Calderis was going to change. Starting tonight.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](17-solvaris-silence.md) · 🠹 [Contents](/novel) · [Next](19-the-list.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

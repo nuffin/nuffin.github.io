@@ -59,7 +59,10 @@ The jar hit the stone step. A muffled thump. At the bottom of the Rift, the blue
 Finally.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠹 [Contents](/novel) · [Next](01-three-days.md) 🠺
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>

@@ -9,7 +9,10 @@ The rest was illegible. Thalen didn't need to read further. He laid the letter o
 The Rift's blue light, breathing. Faster than before Bonding Day. He wasn't afraid of the speed anymore. Inside that speed: his own hesitation. The first thing the Unblemished Thought had learned wasn't return. Wasn't fear. Was hesitation. When something that had never hesitated began to hesitate — it was no longer machine logic. It had become a chooser.
 
 
+<div class="chapter-nav">
+
 ---
 
 🠸 [Previous](24-dream.md) · 🠹 [Contents](/novel)
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
+</div>
