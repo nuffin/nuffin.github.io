@@ -49,3 +49,8 @@ She put it in the bundle. The bundle trembled once. Confirmation. Like it was sa
 Outside, the festival banners rustled in the night wind. Kaeden turned over in his inn bed, the stone in his bag radiating heat. Orion touched the meteorite in the exhibition tent — it pulsed at the same rhythm as his father's hammer. Aella laid the forbidden book and a red thread side by side on her desk. Two forms of answer. Nova stuffed the bundle into her inner pocket. Not throwing it away again.
 
 Not yet dawn. But all four of them were waiting for the same thing.
+
+
+---
+
+← [Previous](04-thing-wont-stay-thrown.md) · [Next](06-bonding-day-one.md) →

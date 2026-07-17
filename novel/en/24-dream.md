@@ -7,3 +7,8 @@ Of the three days lost in the accident, the Unblemished Thought hadn't returned 
 He woke. Pillow wet. Tears warm. Couldn't feel the temperature of crying. Pure state had worn certain channels thin. The connection between emotion and body, growing translucent.
 
 Outside the window, the Rift's blue light lit Calderis's midnight fog. Not a threat. Waiting.
+
+
+---
+
+← [Previous](23-observers.md) · [Next](25-late-night-letter.md) →

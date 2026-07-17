@@ -35,3 +35,8 @@ Nova ran into him that evening. In the back alley behind the Weavers' Hall — a
 "Rift Explorers' outer warehouse. Row three. Number forty-seven."
 
 Then he vanished into the crowd. Nova didn't chase him. Anyone who'd lived fifteen years on the street knew: the things you get for free cost the most. But this time she didn't have a choice. When he said those words, every piece in her pocket vibrated at once. Not fear. Confirmation.
+
+
+---
+
+← [Previous](03-red-thread.md) · [Next](05-travelers-with-secrets.md) →

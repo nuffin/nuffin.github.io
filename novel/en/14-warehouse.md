@@ -37,3 +37,8 @@ Nova closed the log.
 Lynx wasn't an information broker. He was making choices. Delivering fragments where they belonged. Vereth was the receiver, the end of a hundred-year lineage. Lynx was the distributor. Taking pieces from a source and giving them to the guardian.
 
 She left the warehouse in full dark. Took nothing. Just pulled the smallest piece — the one with the V on the back — from her pocket and placed it beside the log. Not for Vereth. For Lynx. To let him know someone had found the first one.
+
+
+---
+
+← [Previous](13-forbidden-book.md) · [Next](15-barrier.md) →

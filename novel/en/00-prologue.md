@@ -57,3 +57,8 @@ He moved them.
 The jar hit the stone step. A muffled thump. At the bottom of the Rift, the blue light skipped. The rhythm it had held for centuries — changed. Not faster. Lighter. Like someone in another dimension let out a breath and said —
 
 Finally.
+
+
+---
+
+[Next](01-three-days.md) →

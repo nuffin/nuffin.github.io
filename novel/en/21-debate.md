@@ -21,3 +21,8 @@ Thalen stood. Compromise. Limited contact. Monitoring. Gradual study. The observ
 Aella closed the book. Last page. Not Scriba's hand. Older. Kaelen's.
 
 "One day someone will stand here and say we should have taught it. Not to judge us. To finish what we were too afraid to start."
+
+
+---
+
+← [Previous](20-eve-of-debate.md) · [Next](22-after-signing.md) →

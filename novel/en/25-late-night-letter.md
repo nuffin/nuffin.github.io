@@ -7,3 +7,8 @@ Thalen received the second letter before dawn. Seraphis. Not through Fundoris. N
 The rest was illegible. Thalen didn't need to read further. He laid the letter on the desk. The blue line beneath it glowed faintly.
 
 The Rift's blue light, breathing. Faster than before Bonding Day. He wasn't afraid of the speed anymore. Inside that speed: his own hesitation. The first thing the Unblemished Thought had learned wasn't return. Wasn't fear. Was hesitation. When something that had never hesitated began to hesitate — it was no longer machine logic. It had become a chooser.
+
+
+---
+
+← [Previous](24-dream.md)

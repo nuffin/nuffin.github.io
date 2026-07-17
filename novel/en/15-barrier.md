@@ -41,3 +41,8 @@ He stood. The motion was slow. Thirty years of never needing to move fast. "You'
 Thalen turned and walked away. Faster than he'd come. He'd realized something. Corvan was waiting in the office with four files on the desk. Seraphis stayed at the broken station, still watching the blue light, still facing a direction he knew he could never fully return from. And the cracks in the barrier — after Thalen left — the blue light paused on them a moment. Then resumed breathing. One beat faster than before Bonding Day. Faster than any breath Seraphis had counted in thirty years.
 
 It was waiting too.
+
+
+---
+
+← [Previous](14-warehouse.md) · [Next](16-pure-state.md) →

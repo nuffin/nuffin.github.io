@@ -21,3 +21,8 @@ The basement fell silent. Kaeden touched the stone in his bag, still warm. The U
 No one could. But the red-thread circle on the wall glowed quietly. Faint blue. The Rift's breath passing through volcanic rock, endless corridors, a basement ceiling. Touching the thread between four names. Touching the answer not yet spoken.
 
 They waited in the dark for dawn.
+
+
+---
+
+← [Previous](19-the-list.md) · [Next](21-debate.md) →

@@ -23,3 +23,8 @@ Solvaris pressed a note to the drawer. "If the Seal must break — let the piece
 "At tomorrow's emergency session, I'll reveal everything I can. The rest isn't in my hands. It's in the right ones."
 
 He walked toward the Guild Council platform. The letter stayed in the drawer. Fifty-year-old ink glowing faintly in the dark. Itheron's special ink — after fifty years of air exposure, the words would erase themselves. A few more months, and the letter would be blank. Like the scraped-away names of the five forgotten creators. Erased on the level where erasure was possible. Remaining on the level where it wasn't.
+
+
+---
+
+← [Previous](16-pure-state.md) · [Next](18-emergency-session.md) →

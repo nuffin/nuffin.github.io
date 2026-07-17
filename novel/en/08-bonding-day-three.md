@@ -31,3 +31,8 @@ She stood. The book's weight vanished from her lap. It was floating — not the 
 The blue light reached the bottom of the Rift.
 
 Then everything changed.
+
+
+---
+
+← [Previous](07-bonding-day-two.md) · [Next](09-resonance.md) →

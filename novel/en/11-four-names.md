@@ -25,3 +25,8 @@ Kaeden glanced at her. Pockets still bulging. Orion looked down at his chest —
 "No," Kaeden said. "Can't throw it away."
 
 The Gray Bridge stone in his pocket, radiating heat. Not checking direction. Confirming he'd found the others.
+
+
+---
+
+← [Previous](10-after-the-breaking.md) · [Next](12-man-without-expression.md) →

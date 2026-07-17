@@ -21,3 +21,8 @@ Orion put the meteorite back in his pocket. Morveth led him out through an unfam
 Morveth stood beside him. "Yesterday he was normal."
 
 Orion put his hand in his pocket. The meteorite pulsed once. Same frequency as the steam hiss from the workshop. It was listening too.
+
+
+---
+
+← [Previous](11-four-names.md) · [Next](13-forbidden-book.md) →

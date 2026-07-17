@@ -37,3 +37,8 @@ She pulled a new red thread from her drawer. Held it. Didn't string it.
 Not yet. But soon.
 
 Bonding Day. The Abyssal Platform.
+
+
+---
+
+← [Previous](02-meteorite.md) · [Next](04-thing-wont-stay-thrown.md) →

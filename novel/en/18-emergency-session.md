@@ -19,3 +19,8 @@ Afterward, Thalen caught the delegate in the corridor. "Itheron was Rift Explore
 Thalen walked back to the Strategy Court. The Rift model's blue light, still breathing. Slightly faster than before the session.
 
 Calderis was going to change. Starting tonight.
+
+
+---
+
+← [Previous](17-solvaris-silence.md) · [Next](19-the-list.md) →

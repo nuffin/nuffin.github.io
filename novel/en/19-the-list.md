@@ -17,3 +17,8 @@ She didn't chase Lynx. He'd delivered the fragments because someone was stealing
 Passing the Weavers' back stairwell, Lynx sat in his usual spot. Not waiting for her — waiting for the light angle to illuminate a question mark in his notebook. Nova didn't stop. But said, to the stairwell air: "Itheron came back. Fifty years. The fragments you delivered — nobody stole them. He left them out to be stolen."
 
 Lynx said nothing. Closed his notebook. Not finished. Starting over.
+
+
+---
+
+← [Previous](18-emergency-session.md) · [Next](20-eve-of-debate.md) →

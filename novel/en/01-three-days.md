@@ -47,3 +47,8 @@ The stone trembled once in his hand, like a nod. He didn't look back. The last t
 But not everything forgotten is lost. The blue lines remembered for him.
 
 The cart jolted over gravel. The southeastern sky — that color he didn't recognize — was spreading.
+
+
+---
+
+← [Previous](00-prologue.md) · [Next](02-meteorite.md) →

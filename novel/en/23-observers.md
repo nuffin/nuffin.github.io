@@ -7,3 +7,8 @@ Nova emptied the bundle onto the table. The fragments slid out, arranged themsel
 Orion lifted a fragment with his forge hand. The meteorite pulsed the same frequency in his other pocket. "Can you hear his name. In pure state."
 
 Kaeden closed his eyes. Traced the fragment's light back. In pure state he heard it — behind the symbol, a longer name, in a language he hadn't learned to pronounce. But he understood the meaning: "The One Who Waits." Not a sealer. Not an accelerator. Waiting for over a century. Waiting for someone to knock.
+
+
+---
+
+← [Previous](22-after-signing.md) · [Next](24-dream.md) →

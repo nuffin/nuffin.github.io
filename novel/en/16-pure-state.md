@@ -25,3 +25,8 @@ He walked back up. Passed the deputy still pretending to watch a group of Chalor
 Back to the inn. Lay on the bed. Water stains in the ceiling cracks — not blue lines. The street name was still there. His mother's stall street. He spoke it softly. Sounded the same as it had for fifteen years.
 
 The Unblemished Thought, breathing at the Rift floor. Faster than before Bonding Day. He wasn't afraid of the speed. He'd seen something in pure state: it wasn't breaking the Seal. It was learning to knock.
+
+
+---
+
+← [Previous](15-barrier.md) · [Next](17-solvaris-silence.md) →

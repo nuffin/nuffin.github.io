@@ -39,3 +39,8 @@ The girl on the railing. The boy in the front. The apprentice at the exhibition.
 Thalen stood at the dome for a long time. Corvan had already adjusted the city model on the stone table to the Rift floor — three new cracks, not there hours ago. Thalen lowered his telescope.
 
 "Find them. Before the other guilds do."
+
+
+---
+
+← [Previous](08-bonding-day-three.md) · [Next](10-after-the-breaking.md) →

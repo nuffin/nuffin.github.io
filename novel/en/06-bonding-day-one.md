@@ -21,3 +21,8 @@ Nine in the morning. Crowds thickening. The ceremony hadn't started, but guild d
 He leaned against the railing. Closed his eyes. The sphere spinning. Blue lines boiling across the city. Blue light flowing in pockets, on clothes, under skin. He didn't know what any of it meant. But he knew one thing.
 
 This pot was about to boil over.
+
+
+---
+
+← [Previous](05-travelers-with-secrets.md) · [Next](07-bonding-day-two.md) →

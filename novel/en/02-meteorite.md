@@ -35,3 +35,8 @@ The caravan cart waited at the village entrance. A cart from the direction of Gr
 The cart pulled away. Iron Kiln shrank behind them. Orion put his hand on the meteorite. It pulsed. Once. Again.
 
 Slower than a heartbeat. Faster than the tide.
+
+
+---
+
+← [Previous](01-three-days.md) · [Next](03-red-thread.md) →

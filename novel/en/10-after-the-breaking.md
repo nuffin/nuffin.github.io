@@ -39,3 +39,8 @@ Thalen stared at the circle of light. Not coincidence. The Prism Studio's angles
 Under the stone table, where no one could see, he traced a line with his finger. Blue light flowed through his fingertip, leaving a hair-thin mark. He'd seen this mark at the bottom of the Rift. On the other side of the cognitive barrier. He didn't know who would hear it. But he knew: when the right person came, this mark would light up.
 
 Dawn broke.
+
+
+---
+
+← [Previous](09-resonance.md) · [Next](11-four-names.md) →

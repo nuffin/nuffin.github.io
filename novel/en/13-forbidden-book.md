@@ -33,3 +33,8 @@ Scriba nodded. No more words. He walked to the door, his books returning to orbi
 "K is there. V never left. They're waiting for the same thing. Not waiting for you to find them. Waiting for you to stop being afraid of them."
 
 Then he and his books vanished down the corridor. The Lantern Tower's spires drifted outside the window. Tonight: four towers. One fewer than usual. Not broken. Just hadn't decided where to go yet.
+
+
+---
+
+← [Previous](12-man-without-expression.md) · [Next](14-warehouse.md) →
