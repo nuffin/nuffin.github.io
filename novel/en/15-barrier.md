@@ -45,5 +45,5 @@ It was waiting too.
 
 ---
 
-← [Previous](14-warehouse.md) · [↩ Contents](/novel) · [Next](16-pure-state.md) →
+← [Previous](14-warehouse.md) · [⤴ Contents](/novel) · [Next](16-pure-state.md) →
 

@@ -43,5 +43,5 @@ Dawn broke.
 
 ---
 
-← [Previous](09-resonance.md) · [↩ Contents](/novel) · [Next](11-four-names.md) →
+← [Previous](09-resonance.md) · [⤴ Contents](/novel) · [Next](11-four-names.md) →
 

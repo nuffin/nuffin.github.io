@@ -51,5 +51,5 @@ The cart jolted over gravel. The southeastern sky — that color he didn't recog
 
 ---
 
-← [Previous](00-prologue.md) · [↩ Contents](/novel) · [Next](02-meteorite.md) →
+← [Previous](00-prologue.md) · [⤴ Contents](/novel) · [Next](02-meteorite.md) →
 
