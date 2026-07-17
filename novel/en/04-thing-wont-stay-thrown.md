@@ -39,6 +39,5 @@ Then he vanished into the crowd. Nova didn't chase him. Anyone who'd lived fifte
 
 ---
 
-← [Previous](03-red-thread.md) · [Next](05-travelers-with-secrets.md) →
+← [Previous](03-red-thread.md) · [← Contents](/novel) · [Next](05-travelers-with-secrets.md) →
 
-[← Contents](/novel)

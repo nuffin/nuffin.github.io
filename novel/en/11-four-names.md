@@ -29,6 +29,5 @@ The Gray Bridge stone in his pocket, radiating heat. Not checking direction. Con
 
 ---
 
-← [Previous](10-after-the-breaking.md) · [Next](12-man-without-expression.md) →
+← [Previous](10-after-the-breaking.md) · [← Contents](/novel) · [Next](12-man-without-expression.md) →
 
-[← Contents](/novel)

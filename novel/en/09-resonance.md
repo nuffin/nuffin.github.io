@@ -43,6 +43,5 @@ Thalen stood at the dome for a long time. Corvan had already adjusted the city m
 
 ---
 
-← [Previous](08-bonding-day-three.md) · [Next](10-after-the-breaking.md) →
+← [Previous](08-bonding-day-three.md) · [← Contents](/novel) · [Next](10-after-the-breaking.md) →
 
-[← Contents](/novel)

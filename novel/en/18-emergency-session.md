@@ -23,6 +23,5 @@ Calderis was going to change. Starting tonight.
 
 ---
 
-← [Previous](17-solvaris-silence.md) · [Next](19-the-list.md) →
+← [Previous](17-solvaris-silence.md) · [← Contents](/novel) · [Next](19-the-list.md) →
 
-[← Contents](/novel)

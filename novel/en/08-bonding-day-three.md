@@ -35,6 +35,5 @@ Then everything changed.
 
 ---
 
-← [Previous](07-bonding-day-two.md) · [Next](09-resonance.md) →
+← [Previous](07-bonding-day-two.md) · [← Contents](/novel) · [Next](09-resonance.md) →
 
-[← Contents](/novel)

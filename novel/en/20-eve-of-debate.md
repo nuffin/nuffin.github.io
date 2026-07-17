@@ -25,6 +25,5 @@ They waited in the dark for dawn.
 
 ---
 
-← [Previous](19-the-list.md) · [Next](21-debate.md) →
+← [Previous](19-the-list.md) · [← Contents](/novel) · [Next](21-debate.md) →
 
-[← Contents](/novel)
