@@ -1,4 +1,76 @@
----
----
+/* 深处的呼吸 — 七色童年风格 */
 
-@import "{{ site.theme }}";
+/* 底色：旧课本纸 */
+body {
+  background: #fdf6e8;
+  color: #3a3226;
+  font-family: "Georgia", "Noto Serif SC", "STSong", serif;
+  line-height: 1.9;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 3em 1.5em;
+}
+
+/* 标题：像用蜡笔写的 */
+h1, h2, h3 {
+  font-family: "Georgia", "Noto Serif SC", serif;
+  font-weight: normal;
+  color: #5b7a9e;
+  letter-spacing: 0.03em;
+}
+h1 {
+  font-size: 2em;
+  border-bottom: 2px dashed #b8d4e8;
+  padding-bottom: 0.4em;
+}
+
+/* 链接：蓝蜡笔色 */
+a {
+  color: #4a7bab;
+  text-decoration: none;
+  border-bottom: 1px dotted #a3c6e3;
+}
+a:hover {
+  color: #2d5a87;
+  border-bottom: 1px solid #4a7bab;
+  background: #e8f0f8;
+}
+
+/* 章节列表 */
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  margin: 0.35em 0;
+}
+li:before {
+  content: "·";
+  color: #b8d4e8;
+  margin-right: 0.6em;
+}
+
+/* 引言块 */
+blockquote {
+  border-left: 3px solid #d4e6f1;
+  margin-left: 0;
+  padding-left: 1em;
+  color: #6b7d8e;
+}
+
+/* 小字 */
+small {
+  color: #9baab8;
+}
+
+/* 水平分割线 */
+hr {
+  border: none;
+  border-top: 1px dashed #d4e6f1;
+  margin: 2em 0;
+}
+
+/* 响应式 */
+@media (max-width: 600px) {
+  body { padding: 1.5em 1em; font-size: 0.95em; }
+}
