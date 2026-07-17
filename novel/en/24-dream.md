@@ -9,10 +9,7 @@ He woke. Pillow wet. Tears warm. Couldn't feel the temperature of crying. Pure s
 Outside the window, the Rift's blue light lit Calderis's midnight fog. Not a threat. Waiting.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](23-observers.md) · 🠹 [Contents](/novel) · [Next](25-late-night-letter.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](23-observers.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](25-late-night-letter.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>

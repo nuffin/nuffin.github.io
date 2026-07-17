@@ -49,10 +49,7 @@ But not everything forgotten is lost. The blue lines remembered for him.
 The cart jolted over gravel. The southeastern sky — that color he didn't recognize — was spreading.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](00-prologue.md) · 🠹 [Contents](/novel) · [Next](02-meteorite.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](00-prologue.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](02-meteorite.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>

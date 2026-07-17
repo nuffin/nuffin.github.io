@@ -39,10 +39,7 @@ Not yet. But soon.
 Bonding Day. The Abyssal Platform.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](02-meteorite.md) · 🠹 [Contents](/novel) · [Next](04-thing-wont-stay-thrown.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](02-meteorite.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](04-thing-wont-stay-thrown.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>

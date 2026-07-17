@@ -51,10 +51,7 @@ Outside, the festival banners rustled in the night wind. Kaeden turned over in h
 Not yet dawn. But all four of them were waiting for the same thing.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](04-thing-wont-stay-thrown.md) · 🠹 [Contents](/novel) · [Next](06-bonding-day-one.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](04-thing-wont-stay-thrown.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](06-bonding-day-one.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>

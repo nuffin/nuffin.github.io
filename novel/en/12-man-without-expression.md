@@ -23,10 +23,7 @@ Morveth stood beside him. "Yesterday he was normal."
 Orion put his hand in his pocket. The meteorite pulsed once. Same frequency as the steam hiss from the workshop. It was listening too.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](11-four-names.md) · 🠹 [Contents](/novel) · [Next](13-forbidden-book.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](11-four-names.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](13-forbidden-book.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>

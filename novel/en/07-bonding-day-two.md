@@ -25,10 +25,7 @@ She turned. Four books, red thread on her wrist, that stray lock bouncing agains
 Orion put the meteorite back in his pocket. His father called his name — another buyer. He went to help. Hand in his pocket on the meteorite. Still pulsing. But this afternoon he was going to the Abyssal Platform. Not because he wanted to. Because the girl and the meteorite had said the same thing.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](06-bonding-day-one.md) · 🠹 [Contents](/novel) · [Next](08-bonding-day-three.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](06-bonding-day-one.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](08-bonding-day-three.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>

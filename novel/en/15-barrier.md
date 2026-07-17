@@ -43,10 +43,7 @@ Thalen turned and walked away. Faster than he'd come. He'd realized something. C
 It was waiting too.
 
 
-<div class="chapter-nav">
-
 ---
 
-🠸 [Previous](14-warehouse.md) · 🠹 [Contents](/novel) · [Next](16-pure-state.md) 🠺
+<span class="nav-arrow">🠸</span> [Previous](14-warehouse.md) · <span class="nav-arrow">🠹</span> [Contents](/novel) · [Next](16-pure-state.md) <span class="nav-arrow">🠺</span>
 <br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
-</div>
