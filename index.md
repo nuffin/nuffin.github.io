@@ -2,11 +2,12 @@
 layout: default
 ---
 
-在很深很深的地方，有东西在呼吸。
-慢慢的。一下，一下。
+Nuffin is nothing. Nothing is everything. Everything is nuffin.
+
+*我不持有任何东西，所以没有任何东西能持有我。*
 
 ---
 
 [深处的呼吸 · The Breath in the Deep](/novel)
 
-*一部小说。还没写完。*
+*一部小说。还在写。光还在呼吸。*
