@@ -27,5 +27,5 @@ He walked toward the Guild Council platform. The letter stayed in the drawer. Fi
 
 ---
 
-← [Previous](16-pure-state.md) · [← Contents](/novel) · [Next](18-emergency-session.md) →
+← [Previous](16-pure-state.md) · [↩ Contents](/novel) · [Next](18-emergency-session.md) →
 

@@ -25,5 +25,5 @@ This pot was about to boil over.
 
 ---
 
-← [Previous](05-travelers-with-secrets.md) · [← Contents](/novel) · [Next](07-bonding-day-two.md) →
+← [Previous](05-travelers-with-secrets.md) · [↩ Contents](/novel) · [Next](07-bonding-day-two.md) →
 

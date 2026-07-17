@@ -9,5 +9,5 @@ He opened the envelope delivered through Fundoris after the session. No signatur
 
 ---
 
-← [Previous](21-debate.md) · [← Contents](/novel) · [Next](23-observers.md) →
+← [Previous](21-debate.md) · [↩ Contents](/novel) · [Next](23-observers.md) →
 

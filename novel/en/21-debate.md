@@ -25,5 +25,5 @@ Aella closed the book. Last page. Not Scriba's hand. Older. Kaelen's.
 
 ---
 
-← [Previous](20-eve-of-debate.md) · [← Contents](/novel) · [Next](22-after-signing.md) →
+← [Previous](20-eve-of-debate.md) · [↩ Contents](/novel) · [Next](22-after-signing.md) →
 

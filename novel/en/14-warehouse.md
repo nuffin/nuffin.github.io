@@ -41,5 +41,5 @@ She left the warehouse in full dark. Took nothing. Just pulled the smallest piec
 
 ---
 
-← [Previous](13-forbidden-book.md) · [← Contents](/novel) · [Next](15-barrier.md) →
+← [Previous](13-forbidden-book.md) · [↩ Contents](/novel) · [Next](15-barrier.md) →
 

@@ -25,5 +25,5 @@ Orion put his hand in his pocket. The meteorite pulsed once. Same frequency as t
 
 ---
 
-← [Previous](11-four-names.md) · [← Contents](/novel) · [Next](13-forbidden-book.md) →
+← [Previous](11-four-names.md) · [↩ Contents](/novel) · [Next](13-forbidden-book.md) →
 
