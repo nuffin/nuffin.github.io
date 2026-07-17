@@ -10,3 +10,4 @@ He opened the envelope delivered through Fundoris after the session. No signatur
 ---
 
 🠸 [Previous](21-debate.md) · 🠹 [Contents](/novel) · [Next](23-observers.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

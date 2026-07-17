@@ -52,3 +52,4 @@ The cart jolted over gravel. The southeastern sky — that color he didn't recog
 ---
 
 🠸 [Previous](00-prologue.md) · 🠹 [Contents](/novel) · [Next](02-meteorite.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

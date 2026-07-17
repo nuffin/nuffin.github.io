@@ -12,3 +12,4 @@ The Rift's blue light, breathing. Faster than before Bonding Day. He wasn't afra
 ---
 
 🠸 [Previous](24-dream.md) · 🠹 [Contents](/novel)
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

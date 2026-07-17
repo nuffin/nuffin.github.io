@@ -12,3 +12,4 @@ Outside the window, the Rift's blue light lit Calderis's midnight fog. Not a thr
 ---
 
 🠸 [Previous](23-observers.md) · 🠹 [Contents](/novel) · [Next](25-late-night-letter.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

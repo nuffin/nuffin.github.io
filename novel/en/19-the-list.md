@@ -22,3 +22,4 @@ Lynx said nothing. Closed his notebook. Not finished. Starting over.
 ---
 
 🠸 [Previous](18-emergency-session.md) · 🠹 [Contents](/novel) · [Next](20-eve-of-debate.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

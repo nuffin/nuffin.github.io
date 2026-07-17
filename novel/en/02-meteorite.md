@@ -40,3 +40,4 @@ Slower than a heartbeat. Faster than the tide.
 ---
 
 🠸 [Previous](01-three-days.md) · 🠹 [Contents](/novel) · [Next](03-red-thread.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

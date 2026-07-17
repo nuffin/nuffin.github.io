@@ -26,3 +26,4 @@ Aella closed the book. Last page. Not Scriba's hand. Older. Kaelen's.
 ---
 
 🠸 [Previous](20-eve-of-debate.md) · 🠹 [Contents](/novel) · [Next](22-after-signing.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

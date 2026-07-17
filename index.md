@@ -13,3 +13,4 @@ Nuffin is nothing. Nothing is everything. Everything is nuffin.
 *A novel. Still being written. The light is still breathing.*
 
 <small>[中文版](/novel#chinese)</small>
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

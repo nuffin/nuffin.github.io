@@ -42,3 +42,4 @@ She left the warehouse in full dark. Took nothing. Just pulled the smallest piec
 ---
 
 🠸 [Previous](13-forbidden-book.md) · 🠹 [Contents](/novel) · [Next](15-barrier.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

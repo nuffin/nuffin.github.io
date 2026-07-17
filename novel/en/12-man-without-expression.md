@@ -26,3 +26,4 @@ Orion put his hand in his pocket. The meteorite pulsed once. Same frequency as t
 ---
 
 🠸 [Previous](11-four-names.md) · 🠹 [Contents](/novel) · [Next](13-forbidden-book.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

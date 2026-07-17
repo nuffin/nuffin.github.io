@@ -40,3 +40,4 @@ Then he vanished into the crowd. Nova didn't chase him. Anyone who'd lived fifte
 ---
 
 🠸 [Previous](03-red-thread.md) · 🠹 [Contents](/novel) · [Next](05-travelers-with-secrets.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

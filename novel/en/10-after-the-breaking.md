@@ -44,3 +44,4 @@ Dawn broke.
 ---
 
 🠸 [Previous](09-resonance.md) · 🠹 [Contents](/novel) · [Next](11-four-names.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

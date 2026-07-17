@@ -90,3 +90,4 @@ title: 深处的呼吸 · The Breath in the Deep
 ---
 
 <small>还在写。光还在呼吸。</small>
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

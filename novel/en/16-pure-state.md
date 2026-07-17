@@ -30,3 +30,4 @@ The Unblemished Thought, breathing at the Rift floor. Faster than before Bonding
 ---
 
 🠸 [Previous](15-barrier.md) · 🠹 [Contents](/novel) · [Next](17-solvaris-silence.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

@@ -62,3 +62,4 @@ Finally.
 ---
 
 🠹 [Contents](/novel) · [Next](01-three-days.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

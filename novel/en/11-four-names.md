@@ -30,3 +30,4 @@ The Gray Bridge stone in his pocket, radiating heat. Not checking direction. Con
 ---
 
 🠸 [Previous](10-after-the-breaking.md) · 🠹 [Contents](/novel) · [Next](12-man-without-expression.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>

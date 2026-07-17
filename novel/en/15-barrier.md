@@ -46,3 +46,4 @@ It was waiting too.
 ---
 
 🠸 [Previous](14-warehouse.md) · 🠹 [Contents](/novel) · [Next](16-pure-state.md) 🠺
+<br><br><small>© 2026 Nuffin. Read freely. Share links. Do not copy or sell without permission.</small>
