@@ -12,3 +12,5 @@ Kaeden closed his eyes. Traced the fragment's light back. In pure state he heard
 ---
 
 ← [Previous](22-after-signing.md) · [Next](24-dream.md) →
+
+[← Contents](/novel)

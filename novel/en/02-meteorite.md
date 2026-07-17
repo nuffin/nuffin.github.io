@@ -40,3 +40,5 @@ Slower than a heartbeat. Faster than the tide.
 ---
 
 ← [Previous](01-three-days.md) · [Next](03-red-thread.md) →
+
+[← Contents](/novel)

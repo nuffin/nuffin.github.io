@@ -28,3 +28,5 @@ Orion put the meteorite back in his pocket. His father called his name — anoth
 ---
 
 ← [Previous](06-bonding-day-one.md) · [Next](08-bonding-day-three.md) →
+
+[← Contents](/novel)

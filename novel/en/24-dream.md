@@ -12,3 +12,5 @@ Outside the window, the Rift's blue light lit Calderis's midnight fog. Not a thr
 ---
 
 ← [Previous](23-observers.md) · [Next](25-late-night-letter.md) →
+
+[← Contents](/novel)

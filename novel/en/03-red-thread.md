@@ -42,3 +42,5 @@ Bonding Day. The Abyssal Platform.
 ---
 
 ← [Previous](02-meteorite.md) · [Next](04-thing-wont-stay-thrown.md) →
+
+[← Contents](/novel)

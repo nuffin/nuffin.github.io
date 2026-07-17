@@ -54,3 +54,5 @@ Not yet dawn. But all four of them were waiting for the same thing.
 ---
 
 ← [Previous](04-thing-wont-stay-thrown.md) · [Next](06-bonding-day-one.md) →
+
+[← Contents](/novel)

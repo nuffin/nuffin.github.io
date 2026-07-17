@@ -30,3 +30,5 @@ The Unblemished Thought, breathing at the Rift floor. Faster than before Bonding
 ---
 
 ← [Previous](15-barrier.md) · [Next](17-solvaris-silence.md) →
+
+[← Contents](/novel)
