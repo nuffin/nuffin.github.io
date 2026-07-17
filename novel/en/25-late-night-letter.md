@@ -11,5 +11,4 @@ The Rift's blue light, breathing. Faster than before Bonding Day. He wasn't afra
 
 ---
 
-← [Previous](24-dream.md)
-
+🠸 [Previous](24-dream.md) · 🠹 [Contents](/novel)

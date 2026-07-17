@@ -37,5 +37,4 @@ Then he and his books vanished down the corridor. The Lantern Tower's spires dri
 
 ---
 
-← [Previous](12-man-without-expression.md) · [⬑ Contents](/novel) · [Next](14-warehouse.md) →
-
+🠸 [Previous](12-man-without-expression.md) · 🠹 [Contents](/novel) · [Next](14-warehouse.md) 🠺

@@ -61,5 +61,4 @@ Finally.
 
 ---
 
-[Next](01-three-days.md) →
-
+🠹 [Contents](/novel) · [Next](01-three-days.md) 🠺
